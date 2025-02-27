@@ -1,4 +1,4 @@
-👋 Hola, soy Andre Marquina! 🚀 Frontend Developer | UI/UX Enthusiast | Ingeniería de Sistemas
+👋 Hola, soy Andre Marquina! 🚀 Frontend Developer | UI/UX | Ingeniería de Sistemas
 💻 Apasionado por el desarrollo web y la creación de interfaces atractivas e intuitivas.
     Me encanta trabajar con tecnologías modernas para construir experiencias digitales impactantes.
 
