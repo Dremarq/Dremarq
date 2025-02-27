@@ -1,16 +1,16 @@
-## Hi there 👋
+👋 Hola, soy Andre Marquina! 🚀 Frontend Developer | UI/UX Enthusiast | Ingeniería de Sistemas
+💻 Apasionado por el desarrollo web y la creación de interfaces atractivas e intuitivas.
+    Me encanta trabajar con tecnologías modernas para construir experiencias digitales impactantes.
 
-<!--
-**Dremarq/Dremarq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Tecnologías y herramientas que uso 
+✨ Lenguajes: HTML, CSS, JavaScript, PHP 
+🖌️ Frameworks & Librerías: React, Bootstrap 
+🎨 Diseño UI/UX: Figma 
+📊 Otras habilidades: APIs REST, Git, Metodologías Ágiles (Scrum)
 
-Here are some ideas to get you started:
+📂 Proyectos destacados 
+🔹 Perú en el Plato – Desarrollo de un sistema web para un restaurante. - https://github.com/Dremarq/PeruEnElPlato.git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Conéctate conmigo 
+🔗 LinkedIn: www.linkedin.com/in/andre-marquina 
+📧 andremarquina97@gmail.com
