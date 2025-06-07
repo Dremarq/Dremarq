@@ -1,5 +1,5 @@
 <h1 align="center">👋 ¡Hola, soy Andre Marquina! 🚀</h1>
-<h3 align="center">Frontend Developer | UI/UX | Ingeniero de Sistemas</h3>
+<h3 align="center">Ingeniero de Sistemas</h3>
 
 <p align="center">
   Apasionado por el desarrollo web y la creación de interfaces atractivas e intuitivas.  
@@ -24,4 +24,4 @@
 
 ## 🤝 Conéctate conmigo  
 📎 [LinkedIn](https://www.linkedin.com/in/andre-marquina)  
-📩 andreMarquina97@gmail.com  
+📩 andremarquina97@gmail.com  
